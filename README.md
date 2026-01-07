@@ -4,4 +4,9 @@ From China ThreatBook Onesec EDR agent
 002 is an agent used internally by the company.
 
 **terabox**
-https://1024terabox.com/s/144aGpu2BduZ_LMMZY6yQng Extraction Code:ebeu
+
+'
+https://1024terabox.com/s/1ctf7vatHtLPVmkLtmurP4Q Extraction Code:1944
+
+code :1944
+'
