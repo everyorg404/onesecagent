@@ -31,6 +31,4 @@ https://1024terabox.com/s/1ctf7vatHtLPVmkLtmurP4Q
 
 Extraction Code:1944
 
-**MEGA**
 
-https://mega.nz/folder/rhok1JbQ#3eSOg1Ah1aKZQdj-SVlZzg
