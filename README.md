@@ -1,6 +1,6 @@
-# Onesec Agent Download 
+# Threatbook Onesec Agent Download 
 
-From China ThreatBook Onesec EDR agent
+From China ThreatBook Onesec EDR agent  
 threatbook onesec agent  It can be used by security researchers for analysis.
 Bypassing Difficulty: Easy
 Instructions: [https://console.onesec.net/protocol?tab=1](https://www.threatbook.cn/onesec)
